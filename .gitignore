@@ -1,0 +1,14 @@
+# Binarios y ejecutables de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin
+
+# Archivos de paquetes de Go (manejados por go.mod)
+/vendor
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
