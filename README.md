@@ -80,10 +80,10 @@ Una vez que el entorno está listo, puedes clonar y configurar el proyecto.
 
 ```bash
 # Reemplaza la URL con la de tu repositorio
-git clone https://github.com/tu-usuario/grpc-atraco.git
+git clone https://github.com/FelipeMarchantVargas/Ejemplo-grpc.git
 
 # Navega al directorio del proyecto
-cd grpc-atraco
+cd Ejemplo-grpc
 ```
 
 #### 2.2. Descargar las Dependencias
